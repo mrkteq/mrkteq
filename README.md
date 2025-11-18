@@ -4,6 +4,6 @@ Front-end developer focused on React, JavaScript, and HTML/CSS, based in Málaga
 
 **Work**
 
-- Project 1 — link
-- Project 2 — link
-- Project 3 — link
+- Project 1 — link and tech blurbs
+- Project 2 — link and tech blurbs
+- Project 3 — link and tech blurbs
