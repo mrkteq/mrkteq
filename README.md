@@ -1,13 +1,18 @@
-# mrkteq
+![Cover image](cover.jpeg)
 
-Front-end engineer with long experience building real interfaces in core web tech. I’m currently living in Spain and I’ve been focused on other things for the last couple of years, but I have 10+ years of industry experience developing web applications and working with the browser stack.
+# Mark Tucker | Frontend Developer
 
-✅ I am currently looking for a new Frontend / UI role that fits my passion and expertise!
+Based in Spain, I'm focused on building clean, functional, and accessible web interfaces. My current work prioritizes solid HTML, CSS, and Vanilla JavaScript fundamentals.
 
-Stack: JavaScript, HTML, CSS, Sass, Git, Node.js basics.
+## 🛠️ Technical Focus
 
-**Micro Projects**
+* **Core:** HTML5, CSS3, and Vanilla JavaScript.
+* **Standards:** Mobile-first responsive design and WCAG 2.1 AA accessibility.
+* **Performance:** Auditing with Google Lighthouse to ensure high accessibility scores (89-98).
+* **AI Integration:** Learning to leverage LLMs for rapid prototyping and creative direction, while ensuring I fully comprehend and can manually steer any generated code.
 
-- CSS Anchor Positioning — [View the Demo](https://mrkteq-anchor-positioning.netlify.app/) stable anchor scrolling (no JS).
-- Project 2 — link and tech blurbs
-- Project 3 — link and tech blurbs
+## 💼 Professional Background
+
+From 2009 to 2020, I contributed to high-traffic gambling platforms, 20+ UK council websites, and various SME business sites. My historical experience includes legacy technologies like AngularJS, jQuery, and XML templating.
+
+**[View My Portfolio](https://marktucker-portfolio.netlify.app/)**
