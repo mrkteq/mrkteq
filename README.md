@@ -1,6 +1,6 @@
 ![Cover image](cover.jpeg)
 
-# Mark Tucker | Front-end Developer
+# Mark Tucker | Front-end developer
 
 Based in Spain, I'm focused on building clean, functional, and accessible web interfaces. My current work prioritizes solid HTML, CSS, and Vanilla JavaScript fundamentals.
 
