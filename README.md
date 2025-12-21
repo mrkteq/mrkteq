@@ -1,4 +1,8 @@
-![Cover image](cover.jpeg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.jpg">
+  <img src="hero-light.jpg" alt="Hero image">
+</picture>
 
 # Mark Tucker | Front-end developer
 
