@@ -14,4 +14,4 @@ Based in Spain. I design content and build interfaces, sometimes both on the sam
 
 2009–2020: High-traffic gambling platforms, 20+ UK council websites, SME business sites. Legacy stack experience (AngularJS, jQuery, XML templating) plus modern vanilla approaches.
 
-2024–present: Content design practice. Published case studies at [https://mrkteq/github.io/content-designer](https://mrkteq.github.io/content-designer/).
+2024–present: Content design practice. Published case studies at [Content design portfolio](https://mrkteq.github.io/content-designer).
