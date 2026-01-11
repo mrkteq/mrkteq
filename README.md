@@ -2,15 +2,16 @@
   <img src="hero-dark.jpg" alt="Hero image">
 </picture>
 
-Based in Spain, I build clean, functional, and accessible web interfaces. My current work prioritises solid HTML, CSS, and Vanilla JavaScript fundamentals.
+Based in Spain. I design content and build interfaces, sometimes both on the same project.
 
-## Technical Focus
+## What I Do
 
-* Core: HTML5, CSS3, and Vanilla JavaScript.
-* Standards: Mobile-first responsive design and WCAG 2.1 AA accessibility.
-* Performance: Auditing with Google Lighthouse to ensure high accessibility scores (89-98).
-* AI Integration: Learning to leverage LLMs for rapid prototyping and creative direction, while ensuring I fully comprehend and can manually steer any generated code.
+**Content Design:** Structuring information for clarity, usability, and reduced cognitive load. I focus on user-facing copy, documentation, and process content where precision matters.
 
-## Professional Background
+**Web Development:** HTML, CSS, and JavaScript fundamentals. Mobile-first, WCAG 2.1 AA accessible, Lighthouse scores 89–98.
 
-From 2009 to 2020, I have contributed to high-traffic gambling platforms, 20+ UK council websites, and various SME business sites. My historical experience includes legacy technologies like AngularJS, jQuery, and XML templating.
+## Background
+
+2009–2020: High-traffic gambling platforms, 20+ UK council websites, SME business sites. Legacy stack experience (AngularJS, jQuery, XML templating) plus modern vanilla approaches.
+
+2024–present: Content design practice. Published case studies at [https://github.io](https://mrkteq.github.io/content-designer/).
