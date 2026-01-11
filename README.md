@@ -1,10 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="hero-light.jpg">
-  <img src="hero-light.jpg" alt="Hero image">
+  <img src="hero-dark.jpg" alt="Hero image">
 </picture>
 
-# Mark Tucker | Front-end developer
+# Mark Tucker | Web Development | Content Design
 
 Based in Spain, I build clean, functional, and accessible web interfaces. My current work prioritises solid HTML, CSS, and Vanilla JavaScript fundamentals.
 
