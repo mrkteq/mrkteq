@@ -17,6 +17,6 @@ Based in Spain, I build clean, functional, and accessible web interfaces. My cur
 
 ## Professional Background
 
-From 2009 to 2020, I have contributed to high-traffic gambling platforms, 20+ UK council websites, and various SME business sites. My historical experience includes legacy technologies like AngularJS, jQuery, and XML templating - portfolio: https://github.com/mrkteq/web-developer
+From 2009 to 2020, I have contributed to high-traffic gambling platforms, 20+ UK council websites, and various SME business sites. My historical experience includes legacy technologies like AngularJS, jQuery, and XML templating - view my portfolio: https://github.com/mrkteq/web-developer
 
 Also exploring content design & technical writing - examples: https://github.com/mrkteq/content-designer
