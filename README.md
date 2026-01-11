@@ -2,8 +2,6 @@
   <img src="hero-dark.jpg" alt="Hero image">
 </picture>
 
-# Mark Tucker | Web Development | Content Design
-
 Based in Spain, I build clean, functional, and accessible web interfaces. My current work prioritises solid HTML, CSS, and Vanilla JavaScript fundamentals.
 
 ## Technical Focus
