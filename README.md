@@ -2,17 +2,23 @@
   <img src="hero-dark.jpg" alt="Hero image">
 </picture>
 
-
-I design content and build interfaces, sometimes both on the same project.
+Frontend developer with 11+ years experience building accessible, user-focused web interfaces.
 
 ## What I Do
 
-**Content Design:** Structuring information for clarity, usability, and reduced cognitive load. I focus on user-facing copy, documentation, and process content where precision matters.
+**CSS/UI Specialist:** Responsive design, WCAG accessibility, cross-browser compatibility. Mobile-first approach with Lighthouse scores 89–100.
 
-**Web Development:** HTML, CSS, and JavaScript fundamentals. Mobile-first, WCAG 2.1 AA accessible, Lighthouse scores 89–98.
+**Frontend Development:** HTML5, CSS3, JavaScript (ES6+). Experience working within AngularJS and React codebases. Comfortable with modern AI-assisted development workflows.
 
 ## Background
 
-2009–2020: High-traffic gambling platforms, 20+ UK council websites, SME business sites. Legacy stack experience (AngularJS, jQuery, XML templating) plus modern vanilla approaches.
+2008–2020: UI Developer for high-traffic gaming platforms (The Workshop, Knockout). Frontend Developer maintaining 15+ UK council websites. Web Developer building WordPress and Joomla sites for SME clients.
 
-2024–present: Content design practice. Published case studies at [Content design portfolio](https://mrkteq.github.io/content-designer).
+2020–2025: Freelance web development. WordPress sites, performance optimisation, accessibility compliance.
+
+## Current Focus
+
+Based in Spain, relocating to UK. Open to frontend developer, UI developer, and web developer roles.
+
+- [Portfolio](https://mrkteq.github.io/web-developer)
+- [LinkedIn](https://linkedin.com/in/mark-anthony-tucker)
