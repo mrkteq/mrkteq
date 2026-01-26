@@ -12,7 +12,7 @@ Frontend developer with 11+ years experience building accessible, user-focused w
 
 ## Background
 
-2008–2020: UI Developer for high-traffic gaming platforms (The Workshop, Knockout). Frontend Developer maintaining 15+ UK council websites. Web Developer building WordPress and Joomla sites for SME clients.
+2008–2020: UI Developer for high-traffic gaming platforms. Frontend Developer maintaining 15+ UK council websites. Web Developer building WordPress and Joomla sites for SME clients.
 
 2020–2025: Freelance web development. WordPress sites, performance optimisation, accessibility compliance.
 
